@@ -10,7 +10,7 @@
 *.iml
 .settings/*
 /indexes/*
-/target/*
+/target
 /src/main/webapp/WEB-INF/classes/*
 /src/main/webapp/WEB-INF/.gitignore
 /src/main/webapp/userfiles/*
